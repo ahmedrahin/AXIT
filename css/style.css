@@ -671,7 +671,7 @@ footer ul li a:hover {
     .features ul {text-align: center;}
     .features ul li {display: inline;margin-right: -4px;}
     .features ul li a {display: inline; font-size: 14px;border-bottom: inherit;padding: 20px;border-right: 1px solid #f5f5f5;}
-    .features-info {margin: 0;text-align: center;height: 350px;}
+    .features-info {margin: 0;text-align: center;height: 350px;margin-top: 15px;}
     .features-info h4 {margin-bottom: 20px;}
     .features-info span {display: block; width: 40px;margin: auto;margin-top: 10px;}
     .features-info a {width: 140px;margin: 25px auto;}
